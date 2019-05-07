@@ -1,1 +1,1 @@
-# Geo-Mapping
+# Geomapping
